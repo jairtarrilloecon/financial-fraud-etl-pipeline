@@ -1,5 +1,7 @@
 # 🕵️‍♂️ Financial Fraud Detection (AML) - ETL Pipeline
 
+![ETL Process Demo](demo_etl.gif)
+
 ![ETL Data Engineering](https://img.shields.io/badge/Data%20Engineering-ETL-blue)
 ![Python](https://img.shields.io/badge/Python-Pandas-green)
 ![SQL](https://img.shields.io/badge/Database-SQLite-red)
