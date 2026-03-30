@@ -1,0 +1,5 @@
+pandas
+numpy
+jupyter
+matplotlib
+sqlite3-api  # actually sqlite3 is built-in

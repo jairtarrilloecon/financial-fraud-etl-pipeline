@@ -1,0 +1,13 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data (we don't upload the database or the raw generated CSV to save space, they can be regenerated)
+data/raw/transacciones_corruptas.csv
+data/fraude_financiero.db
